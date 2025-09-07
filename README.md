@@ -43,11 +43,11 @@ gcc Non_Restoring_Algorithm.c -o NonRestoring
 - ## Sample Outputs
 
 ### Sequential Multiplication
-![Sequential Multiplication Output](images/sequential_output.jpg)
+![Sequential Multiplication Output](images/sequential.jpg)
 
 ### Restoring Division
-![Restoring Division Output](images/restoring_division_output.jpg)
+![Restoring Division Output](images/restoring.jpg)
 
 ### Non-Restoring Division
-![Non-Restoring Division Output](images/non_restoring_division_output.jpg)
+![Non-Restoring Division Output](images/non restoring.jpg)
 
