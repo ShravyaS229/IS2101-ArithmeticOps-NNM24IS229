@@ -13,4 +13,17 @@ These programs simulate hardware-level arithmetic operations step-by-step to hel
 ---
 
 ## Folder Structure
+Sequential_Multiplication.c
+ Restoring_Algorithm.c
+ NonRestoring_Algorithm.c
+ README.md
+ images/ (Screenshots of program outputs)
+ ## Compile ans Run
+ gcc ShiftAddMultiplication.c -o ShiftAddMultiplication
+./ShiftAddMultiplication
 
+gcc RestoringDivision.c -o RestoringDivision
+./RestoringDivision
+
+gcc Non_Restoring_Algorithm.c -o NonRestoring
+./NonRestoring
