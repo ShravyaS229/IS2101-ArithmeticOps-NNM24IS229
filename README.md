@@ -49,5 +49,5 @@ gcc Non_Restoring_Algorithm.c -o NonRestoring
 ![Restoring Division Output](images/restoring.jpg)
 
 ### Non-Restoring Division
-![Non-Restoring Division Output](images/non restoring.jpg)
+![Non-Restoring Division Output](images/nonrestoring.jpg)
 
