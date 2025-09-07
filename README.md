@@ -1,11 +1,16 @@
 # IS2101-ArithmeticOps-NNM24IS229
-## Program Outputs
+# IS2101-ArithmeticOps-<USN>
 
-### Sequential Multiplication
-![Sequential Multiplication Output](images/sequential.png)
+## Description
+This repository contains C programs implementing low-level arithmetic algorithms:
 
-### Restoring Division
-![Restoring Division Output](images/restoring.png)
+- **Sequential (Shift-Add) Multiplication** (Signed integers using 2's complement)
+- **Restoring Division Algorithm**
+- **Non-Restoring Division Algorithm**
 
-### Non-Restoring Division
-![Non-Restoring Division Output](images/nonrestoring.png)
+These programs simulate hardware-level arithmetic operations step-by-step to help students understand how signed integer multiplication and division are handled in binary.
+
+---
+
+## Folder Structure
+
